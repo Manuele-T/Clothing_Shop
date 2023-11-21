@@ -19,6 +19,7 @@ This is a simple Java Swing application where normal users can view products and
 
 ### Installing and Running
 - Simply download/clone the repository, then go to Clothing_Shop - views and find MainMenu.java. Right click on it and select "Run". You can either register a new user, or use the credentials stored in the DbShop access database file.
+- You can also go to /dist and run Clothing_Shop.rar executable file.
 
 ## License
 This project is not licensed for reuse, modification, or distribution.
