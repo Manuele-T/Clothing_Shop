@@ -27,7 +27,6 @@ This project is not licensed for reuse, modification, or distribution.
 ## Contact
 - Full name: Manuele Tacchetti
 - Email: manuele.tacchetti@gmail.com
-<<<<<<< HEAD
 
 # Screenshots
 
@@ -44,13 +43,3 @@ This project is not licensed for reuse, modification, or distribution.
 ![Staff Orders History](Screenshots/06.jpg)
 
 ![Staff Order Details](Screenshots/07.jpg)
-
-
-
-
-
-
-
-
-=======
->>>>>>> 62e298d4dcc828c5062d17c70687758799c63571
